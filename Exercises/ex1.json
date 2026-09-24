@@ -1,0 +1,317 @@
+{
+  "format": "v1",
+  "instruction": {
+    "lines": [
+      {
+        "contents": [
+          {"kind": "text", "text": "Dans"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "chaque"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "liste"},
+          {"kind": "text", "text": ","},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "un"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "mot"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "n’est"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "pas"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "classé"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "dans"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "l’ordre"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "alphabétique"},
+          {"kind": "text", "text": "."}
+        ]
+      },
+      {
+        "contents": [
+          {"kind": "text", "text": "Clique"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "sur"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "l’intrus"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "pour"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "le"},
+          {"kind": "whitespace"},
+          {"kind": "text", "text": "cacher"},
+          {"kind": "text", "text": "."}
+        ]
+      }
+    ]
+  },
+  "example": null,
+  "hint": null,
+  "statement": {
+    "pages": [
+      {
+        "lines": [
+          {
+            "contents": [
+              {"kind": "text", "text": "a"},
+              {"kind": "text", "text": "."},
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "articuler"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "appliquer"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "astiquer"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "attention"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "autant"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "avoir"}],
+                "colors": ["#000000"],
+                "boxed": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lines": [
+          {
+            "contents": [
+              {"kind": "text", "text": "b"},
+              {"kind": "text", "text": "."},
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "bain"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "bêtise"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "biberon"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "blanc"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "bol"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "bateau"}],
+                "colors": ["#000000"],
+                "boxed": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lines": [
+          {
+            "contents": [
+              {"kind": "text", "text": "c"},
+              {"kind": "text", "text": "."},
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "danser"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "dentiste"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "durcir"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "diplodocus"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "dormir"}],
+                "colors": ["#000000"],
+                "boxed": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lines": [
+          {
+            "contents": [
+              {"kind": "text", "text": "d"},
+              {"kind": "text", "text": "."},
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "tige"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "tigre"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "tissu"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "titre"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "tir"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "tournesol"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "trapèze"}],
+                "colors": ["#000000"],
+                "boxed": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "lines": [
+          {
+            "contents": [
+              {"kind": "text", "text": "e"},
+              {"kind": "text", "text": "."},
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "eau"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "étourdi"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "école"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "édifice"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "effrayer"}],
+                "colors": ["#000000"],
+                "boxed": true
+              },
+              {"kind": "whitespace"},
+              {
+                "kind": "selectableInput",
+                "contents": [{"kind": "text", "text": "égaliser"}],
+                "colors": ["#000000"],
+                "boxed": true
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "reference": null
+}
